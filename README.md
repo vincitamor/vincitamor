@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm George!</h1>
 <h3 align="center">I am passionate about learning Web Development.</h3>
 
-- 🔭 I’m currently working on [MLK Tribute Page](https://github.com/vincitamor/tribute-page)
+- 🔭 I’m currently working on [My portfolio website](https://github.com/vincitamor/portfolio-website)
 
 - 🌱 I’m currently learning **HTML, CSS, and JS with the 100Devs bootcamp.**
 
